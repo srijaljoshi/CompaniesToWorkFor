@@ -1,0 +1,13 @@
+    Role                Average salary
+
+Software Engineer           $125,129
+
+Data Engineer              $122,515
+
+Sr. Software Engineer        $153,286
+
+Data Scientist	           $126,860
+
+Mechanical Engineer	        $115,136
+
+Financial Analyst	         $89,903

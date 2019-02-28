@@ -1,0 +1,6 @@
+Companies To Work For
+
+This application provides information about a few companies to work for Software Engineers. Some of the top comapanies listed are Apple, Microsoft, Google, Facebook, Uber.
+The overview page provides information about the size of the company, number of employees, revenue, headquarters and so on.
+The details page provides information about expected pay scale with respect to job titles.
+

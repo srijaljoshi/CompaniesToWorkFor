@@ -1,0 +1,9 @@
+    Role                Average salary
+
+Software Engineer           $120,714
+
+Operations Manager	        $69,536
+
+Sr. Software Engineer        $151,857
+
+Data Scientist	            $119,189

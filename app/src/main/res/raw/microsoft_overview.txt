@@ -1,0 +1,13 @@
+"At Microsoft, our mission is to empower every person and every organization on the planet to achieve more. Our mission is grounded in both the world in which we live and the future we strive to create. Today, we live in a mobile-first, cloud-first world, and the transformation we are driving across our businesses is designed to enable Microsoft and our customers to thrive in this world."
+
+"We do business in 170 countries and are made up of 114,000 passionate employees dedicated to fulfilling our mission of helping you and your organization achieve more."
+
+Website: http://www.news.microsoft.com/
+Industry: Computer Software
+Company size: 10,001+ employees
+Headquarters: Redmond, WA
+Type: Public Company
+Founded: 1975
+Specialties: Business Software, Developer Tools, Home & Educational Software, Tablets, Search, Advertising, Servers, Windows Operating System, Windows Applications & Platforms, Smartphones, Cloud Computing, Quantum Computing, Future of Work, Productivity, AI, Artificial Intelligence, Machine Learning, Laptops, Mixed Reality, Virtual Reality, Gaming, Developers, and IT Professional
+
+[Taken from https://www.linkedin.com/company/microsoft/about/]

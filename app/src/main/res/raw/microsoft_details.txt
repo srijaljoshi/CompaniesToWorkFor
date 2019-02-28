@@ -1,0 +1,11 @@
+    Role                Average salary
+
+Software Engineer           $112,831
+
+Product Manager     	    $120,938
+
+Sr. Software Engineer        $134,505
+
+Data Scientist	             $111,398
+
+UX Designer 	             $84,305

@@ -1,0 +1,11 @@
+    Role                Average salary
+
+Software Engineer           $121,928
+
+Data Engineer               $122,515
+
+Sr. Software Engineer        $152,805
+
+Data Scientist	            $116,658
+
+UX Researcher	            $114,124

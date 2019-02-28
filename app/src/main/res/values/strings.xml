@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">TopCompanies</string>
+    <string name="spinner_prompt">Pick a choice</string>
+</resources>
